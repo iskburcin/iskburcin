@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iskburcin
-- 👀 I’m interested in obviously programming
-- 🌱 I’m currently learning java at university
+- 👀 I’m interested in Java, Python (ML/DL), SQL... 
 
 <!---
 iskburcin/iskburcin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

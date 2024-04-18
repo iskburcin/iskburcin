@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @iskburcin
-- 👀 I’m interested in Java, Python (ML/DL), SQL... 
+👋 Hi, I’m Burcin
+👀 22 years old Computer Engineering Student from Türkiye
+
+✦ I'm a incorrigible Java programmer 
+
+✦ I’m interested AI and some application of blockchain recently. I havent decided my field yet. But after intern session, I'm sure that I would have deep dive into my favourite  
 
 <!---
 iskburcin/iskburcin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

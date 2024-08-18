@@ -1,4 +1,4 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
+<div class="row">
     <a href="#"><img width="150px" height="150px" src="https://cache.teia.rocks/ipfs/QmYhGUnVJHSD7shbSXrsYo48bjhmTT77RDDsKbjvboLLmX"/> </a>
     <h1 style="margin-left: 20px;display: flex; align-items: center;">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">, I'm Burcin</h1>
 </div>
@@ -14,27 +14,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
-    <a href="https://www.java.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/microsoft-sql-server.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flask.png"/> </a>
-    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a>
-    <a href="https://keras.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/keras.png"/> </a>
-    <a href="https://opencv.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/opencv.png"/> </a>
-    <a href="https://matplotlib.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/matplotlib.png"/> </a>
-    <a href="https://numpy.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/numpy.png"/> </a>
-    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pandas.png"/> </a>
-    <a href="https://pytorch.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pytorch.png"/> </a>
-    <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/> </a>
-    <a href="https://www.javafx.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javafx.png"/> </a>
-    <a href="https://www.canva.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/canva.png"/> </a>
-</p>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=plastic&logo=javafx&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 <br/>
 

@@ -21,8 +21,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/iskburcin/github-readme-stats"><img alt="Burcin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iskburcin&theme=dark&hide_border=false&include_all_commits=false&count_private=true" /></a>
-  <a href="https://github.com/iskburcin/github-readme-stats"><img alt="Burcin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskburcin&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /></a>
+    <a href="https://github.com/iskburcin/github-readme-stats"><img alt="Burcin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iskburcin&theme=dark&hide_border=true&include_all_commits=false&count_private=true" /></a>
+  <a href="https://github.com/iskburcin/github-readme-stats"><img alt="Burcin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskburcin&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>

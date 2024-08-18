@@ -1,8 +1,16 @@
-<a href="#">
-    <img width="150px" height="150px" src="https://cache.teia.rocks/ipfs/QmYhGUnVJHSD7shbSXrsYo48bjhmTT77RDDsKbjvboLLmX"/>
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="#">
+        <img width="150px" height="150px" src="https://cache.teia.rocks/ipfs/QmYhGUnVJHSD7shbSXrsYo48bjhmTT77RDDsKbjvboLLmX"/>
+      </a>
+    </td>
+    <td>
+      <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">, I'm Burcin</h1>
+    </td>
+  </tr>
+</table>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">, I'm Burcin</h1>
 <h3 align="center">I'm a passionate Java programmer from Turkey.\n I’m interested AI and some application of blockchain recently. I havent decided my field yet. But after intern session, I'm sure that I would have deep dive into my favourite  </h3>
 
 ## 🙋‍♂️ About Me

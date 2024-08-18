@@ -11,7 +11,8 @@
   </tr>
 </table>
 
-<h3 align="center">I'm a passionate Java programmer from Turkey.\n I’m interested AI and some application of blockchain recently. I havent decided my field yet. But after intern session, I'm sure that I would have deep dive into my favourite  </h3>
+<h3 align="center">I'm a passionate Java programmer from Turkey.</h3>
+<h4 align="left">I’m interested AI and some application of blockchain recently. I havent decided my field yet. But after intern session, I'm sure that I would have deep dive into my favourite  </h4>
 
 ## 🙋‍♂️ About Me
 
@@ -31,9 +32,7 @@
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a>
     <a href="https://www.python.org/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
     <a href="https://www.java.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a>
-    <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/microsoft-sql-server.png"/> </a>
-    <a href="https://www.mathworks.com/products/matlab.html" target="_blank">  <img src="https://img.icons8.com/color/48/000000/matlab.png"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>

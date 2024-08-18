@@ -1,6 +1,8 @@
-<div class="row">
-    <a href="#"><img width="150px" height="150px" src="https://cache.teia.rocks/ipfs/QmYhGUnVJHSD7shbSXrsYo48bjhmTT77RDDsKbjvboLLmX"/> </a>
-    <h1 style="margin-left: 20px;display: flex; align-items: center;">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">, I'm Burcin</h1>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+    <p style="display:inline-block;">
+        <a href="#"><img width="150px" height="150px" src="https://cache.teia.rocks/ipfs/QmYhGUnVJHSD7shbSXrsYo48bjhmTT77RDDsKbjvboLLmX"/> </a>
+        <h1 style="margin-left: 20px;display: flex; align-items: center;">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">, I'm Burcin</h1>
+    </p>
 </div>
 
 <h3 align="center">I'm a passionate Java programmer from Turkey.</h3>
